@@ -1,1 +1,2 @@
 hi friends
+background-image : conic-gradient red green yello
